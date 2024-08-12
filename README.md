@@ -1,5 +1,8 @@
 # Bike Purchase
 
+![Screenshot 2024-08-12 170952](https://github.com/user-attachments/assets/1839dfac-5dbb-40e2-a751-9ed8f4a28b89)
+
+
 ### Project Overview
 
 This project involves the analysis of a dataset related to bike purchases. The main objectives were to clean and transform the data and visualize the findings through a dashboard. The analysis focuses on understanding the average income per gender, bike purchase patterns based on commute distance, and bike purchase trends across different age brackets.
