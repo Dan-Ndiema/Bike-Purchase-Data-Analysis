@@ -18,6 +18,7 @@ Excel - Data cleaning and Data visualizations
 ### Data Cleaning and Preparation
 
 I perfomed the following tasks in cleaning and preparation of my data:
+
 1.Filled out abbreviations in the marital status column (e.g., M to Married, S to Single).
 
 2.Updated the gender column by changing F to Female and M to Male.
